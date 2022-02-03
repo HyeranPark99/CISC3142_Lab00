@@ -1,0 +1,5 @@
+Hello, my name is Hyeran Park
+My major is computer science. 
+My focus of studies is understanding C++.
+My hobby is drawing and playing games.
+I don't have any professional experiences of this field yet.
